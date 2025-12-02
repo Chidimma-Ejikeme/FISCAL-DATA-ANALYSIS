@@ -1,7 +1,7 @@
-# 📊 FiscalGuard: Sovereign Debt & Fiscal Resilience Analysis
+# FiscalGuard: Sovereign Debt & Fiscal Resilience Analysis
 **Predicting Africa's Fiscal Future using Data Science & Machine Learning**
 
-## 🚀 Project Overview
+## Project Overview
 **FiscalGuard** is a comprehensive data science project designed to diagnose the root causes of sovereign debt crises in emerging African markets (with a focus on Nigeria, Egypt, and South Africa). 
 
 Using a dataset of over **23,700 fiscal records**, this project moves beyond simple visualization to build an **Early Warning System (EWS)** for fiscal instability. It leverages diagnostic analytics to identify structural economic flaws—such as the "Growth Paradox" and "Efficiency Gaps"—and employs predictive modeling to forecast fiscal trajectories through 2030.
@@ -13,7 +13,7 @@ Using a dataset of over **23,700 fiscal records**, this project moves beyond sim
 
 ---
 
-## 🛠️ Tech Stack & Methodology
+## Tech Stack & Methodology
 This project was built using Python and the following data science libraries:
 
 * **Pandas:** For cleaning, standardizing, and aggregating 23,000+ rows of messy fiscal data (handling mixed currencies and units).
@@ -23,7 +23,7 @@ This project was built using Python and the following data science libraries:
 
 ---
 
-## 🔍 Key Insights & Findings
+## Key Insights & Findings
 
 ### 1. The "Jaws of Deficit" (Structural Divergence)
 Our analysis revealed a critical decoupling in Nigeria's economy:
@@ -44,7 +44,7 @@ Our analysis revealed a critical decoupling in Nigeria's economy:
 
 ---
 
-## 🔮 Predictive Modeling (The "Cone of Possibility")
+## Predictive Modeling (The "Cone of Possibility")
 We simulated Nigeria's fiscal path to 2030 under three scenarios:
 
 1.  **🔴 Business as Usual (BAU):**
@@ -66,7 +66,7 @@ We simulated Nigeria's fiscal path to 2030 under three scenarios:
 ├── data/
 │   └── 10Alytics_Fiscal_Data.csv    # Raw dataset (Cleaned version used in code)
 ├── notebooks/
-│   └── Fiscal_Analysis_Main.ipynb   # Full analysis (Cleaning -> EDA -> ML)
+│   └── FISCAL DATA ANALYSIS AND PREDICTON.ipynb   # Full analysis (Cleaning -> EDA -> ML)
 ├── visuals/
 │   ├── nigeria_trends.png           # "Jaws of Deficit" Chart
 │   ├── correlation_matrix.png       # Drivers of Instability Heatmap
