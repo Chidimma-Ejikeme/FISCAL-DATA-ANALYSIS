@@ -64,7 +64,7 @@ We simulated Nigeria's fiscal path to 2030 under three scenarios:
 ## 📂 Repository Structure
 ```bash
 ├── data/
-│   └── 10Alytics_Fiscal_Data.csv    # Raw dataset (Cleaned version used in code)
+│   └── Fiscal Dataset.csv    # Raw dataset (Cleaned version used in code)
 ├── notebooks/
 │   └── FISCAL DATA ANALYSIS AND PREDICTON.ipynb   # Full analysis (Cleaning -> EDA -> ML)
 ├── visuals/
